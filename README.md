@@ -4,6 +4,8 @@
  
  In my free time, I love working on open-source software, programming in Go as well as dabbling with the latest tools and technologies, and testing new stuff out on my pet projects. I am also a competitive gamer. 
  
+ 🔭 I’m currently working @ InPlayer as Backend Engineer
+ 
 ✍️ My blog https://darkodjalevski.me/ 
 <!--https://darkodjalevski.me/
 **Dzalevski/Dzalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
