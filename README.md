@@ -6,7 +6,7 @@
  
  🔭 I’m currently working @ [InPlayer](https://inplayer.com/) as Backend Engineer 
 
- 🔭 Rank Top Rated Plus on Upwork with over 1500h *Started freelancing 2021
+ 🔭 Rank Top Rated Plus on Upwork with over 1500h *Started freelancing 2021*
  
 ✍️ My blog https://darkodjalevski.me/ 
 <!--https://darkodjalevski.me/
