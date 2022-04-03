@@ -5,7 +5,8 @@
 🌱 In my free time, I love working on ⚡open-source⚡ software, programming in ⚡Go⚡ as well as dabbling with the latest tools and technologies, and testing new stuff out on my pet projects. I am also a competitive gamer. 
  
  🔭 I’m currently working @ [InPlayer](https://inplayer.com/) as Backend Engineer 
- 🔭 Ramk Top Rated Plus on Upwork with over 1500h *Started freelancing 2021
+
+ 🔭 Rank Top Rated Plus on Upwork with over 1500h *Started freelancing 2021
  
 ✍️ My blog https://darkodjalevski.me/ 
 <!--https://darkodjalevski.me/
