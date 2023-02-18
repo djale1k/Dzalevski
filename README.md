@@ -10,7 +10,9 @@
  
 ✍️ My blog https://darkodjalevski.me/ 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark&hide_border=true)](https://git.io/streak-stats) [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres&perline=3)](https://skillicons.dev)
+ ⚡ My Stack -> [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres&perline=3)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 <!--https://darkodjalevski.me/
 **Dzalevski/Dzalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
