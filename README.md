@@ -9,6 +9,8 @@
  🔭 Rank Top Rated Plus on Upwork with over 1500h *Started freelancing 2021*
  
 ✍️ My blog https://darkodjalevski.me/ 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--https://darkodjalevski.me/
 **Dzalevski/Dzalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
