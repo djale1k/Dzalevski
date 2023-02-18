@@ -12,7 +12,7 @@
 
  ⚡ My Stack -> 
  
- [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres,grafana,githubactions&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres,grafana,githubactions&perline=4)](https://skillicons.dev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzalevski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark)](https://git.io/streak-stats)  ![Dzalevski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzalevski&show_icons=true&theme=transparent)
 <!--https://darkodjalevski.me/
