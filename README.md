@@ -14,7 +14,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres,grafana,githubactions&perline=4)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark&hide_border=true)](https://git.io/streak-stats)  !![Dzalevski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzalevski&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark)](https://git.io/streak-stats)  ![Dzalevski's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dzalevski&show_icons=true&theme=transparent)
 <!--https://darkodjalevski.me/
 **Dzalevski/Dzalevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
