@@ -12,7 +12,7 @@
 
  ⚡ My Stack -> 
  
- [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,cloudflare,kubernetes,postgres,grafana,githubactions&perline=4)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dzalevski&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 <!--https://darkodjalevski.me/
