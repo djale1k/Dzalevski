@@ -7,6 +7,8 @@
  🔭 I’m currently working @ [Glassnode](https://glassnode.com) as Senior Software Engineer 
 
  🔭 Rank Top Rated Plus on Upwork with over 1500h *For freelancing year - 2021*
+
+👨‍💻 In the last year mostly of my projects are on gitlab -> [GitLab Profile](https://gitlab.com/djale1k)
  
 ✍️ My blog https://darkodjalevski.me/ 
 
