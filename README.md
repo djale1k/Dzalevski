@@ -4,7 +4,7 @@
  
 🌱 In my free time, I love working on ⚡open-source⚡ software, programming in ⚡Go⚡ as well as dabbling with the latest tools and technologies, and testing new stuff out on my pet projects. I am also a competitive gamer. 
  
- 🔭 I’m currently working @ [Cecil](https://www.cecil.earth) as Backend Engineer 
+ 🔭 I’m currently working @ [Glassnode](https://glassnode.com) as Senior Software Engineer 
 
  🔭 Rank Top Rated Plus on Upwork with over 1500h *For freelancing year - 2021*
  
