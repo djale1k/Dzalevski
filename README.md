@@ -10,7 +10,7 @@
 
  🔭 Rank Top Rated Plus on Upwork with over 1500h *For freelancing year - 2021*
 
-👨‍💻 In the last year mostly of my projects are on gitlab -> [GitLab Profile](https://gitlab.com/djale1k)
+👨‍💻 In the last year mostly of my projects are on gitlab -> [GitLab Profile1](https://gitlab.com/djale1k)  [GitLab Profile2(Company Private)](https://gitlab.com/darkodjalevski) 
  
 ✍️ My blog https://darkodjalevski.me/ 
 
