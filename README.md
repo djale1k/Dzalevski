@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 👨‍💻 I am a Senior Backend Engineer with a passion for designing and developing user-facing applications on a big scale. With a focus on distributed systems and API design, I bring over 6 years of experience in the field. 
+ 👨‍💻 I am a Senior Software Engineer with a passion for designing and developing user-facing applications on a big scale. With a focus on distributed systems and API design, I bring over 7 years of experience in the field. 
 
 🔭 I am based in Skopje, Macedonia, and thrive in collaborative and dynamic environments. I am always eager to take on new challenges and contribute to cutting-edge projects. If you're looking for a dedicated and experienced Senior Backend Engineer, feel free to reach out to me. Let's connect and explore potential opportunities!
  
