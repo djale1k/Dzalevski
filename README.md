@@ -25,7 +25,7 @@ Responsibilities:
 
 👨‍💻 In the last years most of my projects are on GitLab -> [GitLab Profile1](https://gitlab.com/djale1k)  [GitLab Profile2(Company Private)](https://gitlab.com/darkodjalevski) 
  
-✍️ My blog [Blog](https://darkodjalevski.me/)  
+✍️ My [Blog](https://darkodjalevski.me/)  
 
 👨‍💻 My [Linkedin](https://www.linkedin.com/in/darkodjalevski/)
 
