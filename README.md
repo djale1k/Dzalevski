@@ -1,18 +1,19 @@
 ### Hi there 👋
 
- 👨‍💻 I am a Senior Software Engineer with a passion for designing and developing user-facing applications on a big scale. With a focus on distributed systems and API design, I bring over 8 years of experience in the field. 
+👨‍💻 I am a Senior Software Engineer specializing in the design and development of large-scale systems and AI-driven data pipelines—ensuring seamless data ingestion, processing, and refinement for advanced analytics and machine learning. With over 8 years of experience, I focus on distributed systems and robust API design, primarily using Go. Based in Skopje, Macedonia, I thrive in collaborative, dynamic environments and am always eager to tackle new challenges. If you're looking for a dedicated and experienced Senior Software Engineer, feel free to reach out—let's connect and explore potential opportunities!
 
-🔭 I am based in Skopje, Macedonia, and thrive in collaborative and dynamic environments. I am always eager to take on new challenges and contribute to cutting-edge projects. If you're looking for a dedicated and experienced Senior Software Engineer, feel free to reach out to me. Let's connect and explore potential opportunities!
- 
-🌱 Beyond my professional endeavors, I am an avid open-source contributor and passionate about exploring the latest tools and technologies. I enjoy programming in Go and working on my personal projects to continually expand my skill set. In my free time, I indulge in competitive gaming, fueling my competitive spirit and enhancing my problem-solving abilities. 
- 
- 🔭 Rank Top Rated Plus on Upwork with over 1500h *For freelancing year - 2021*
+🌱 Beyond my professional endeavors, I am an avid open-source contributor and love exploring the latest tools and technologies. I continually work on personal projects to expand my skill set and indulge in competitive gaming, fueling my competitive spirit and enhancing my problem-solving abilities.
 
-👨‍💻 In the last years most of my projects are on GitLab -> [GitLab Profile1](https://gitlab.com/djale1k)  [GitLab Profile2(Company Private)](https://gitlab.com/darkodjalevski) 
- 
-✍️ My [Blog](https://darkodjalevski.me/)  
+🔭 I am proud to be a Top Rated Plus freelancer on Upwork with over 1500 hours clocked in 2021.
 
-👨‍💻 My [Linkedin](https://www.linkedin.com/in/darkodjalevski/)
+👨‍💻 In recent years, most of my projects have been on GitLab:  
+- [GitLab Profile1](https://gitlab.com/djale1k)  
+- [GitLab Profile2 (Company Private)](https://gitlab.com/darkodjalevski)  
+
+✍️ My [Blog](https://darkodjalevski.me/)
+
+👨‍💻 My [LinkedIn](https://www.linkedin.com/in/darkodjalevski/)
+
 
  ⚡ My Stack -> 
  
